@@ -20,3 +20,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **Latihan Branch**
+
+**Latihan git qwiklabs**
+I am editing the README file. Adding some more details about the project description.
